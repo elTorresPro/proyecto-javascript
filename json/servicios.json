@@ -1,0 +1,137 @@
+[
+    {
+        "id": "001",
+        "tipo": "diseño",
+        "product": "Tarjetas de Presentación",
+        "descripcion": "Servicio de Creación de editable de la tarjeta de presentación.",
+        "precio": 50,
+        "img": "https://picsum.photos/id/20/600",
+        "cantidad": "20"
+    },
+    {
+        "id": "002",
+        "tipo": "diseño",
+        "product": "Fotografía",
+        "descripcion": "Servicio de Sesión de  fotos para eventos o empresarial",
+        "precio": 100,
+        "img": "https://picsum.photos/id/435/600",
+        "cantidad": "50"
+    },
+    {
+        "id": "003",
+        "tipo": "impresion",
+        "product": "Impresión en Vinil",
+        "descripcion": "Impresión de papeleria empresarial y publicitaria.",
+        "precio": 80,
+        "img": "https://picsum.photos/id/274/600",
+        "cantidad": "30"
+    },
+    {
+        "id": "004",
+        "tipo": "diseño",
+        "product": "Almanaques",
+        "descripcion": "Servicio de Creación de Almanaques.",
+        "precio": 50,
+        "img": "https://picsum.photos/id/668/600",
+        "cantidad": "20"
+    },
+    {
+        "id": "005",
+        "tipo": "impresion",
+        "product": "Merchandising",
+        "descripcion": "Realizado de Merchandising para presentación Empresarial",
+        "precio": 120,
+        "img": "https://picsum.photos/id/370/600",
+        "cantidad": "10"
+    },
+    {
+        "id": "006",
+        "tipo": "instalacion",
+        "product": "Panel Publicitario",
+        "descripcion": "Instalación de Panel Publicitario y construccion de Panel",
+        "precio": 500,
+        "img": "https://picsum.photos/id/405/600",
+        "cantidad": "15"
+    },
+    {
+        "id": "007",
+        "tipo": "diseño",
+        "product": "Señaletica",
+        "descripcion": "Diseño e instalacion de señaletica.",
+        "precio": 70,
+        "img": "https://picsum.photos/id/619/600",
+        "cantidad": "12"
+    },
+    {
+        "id": "008",
+        "tipo": "diseño",
+        "product": "Portafolios",
+        "descripcion": "Diseño de Portafolios empresariales.",
+        "precio": 40,
+        "img": "https://picsum.photos/id/526/600",
+        "cantidad": "80"
+    },
+    {
+        "id": "009",
+        "tipo": "diseño",
+        "product": "Paginas Web",
+        "descripcion": "Diseño de Paginas Web.",
+        "precio": 1200,
+        "img": "https://picsum.photos/id/1/600",
+        "cantidad": "50"
+    },
+    {
+        "id": "010",
+        "tipo": "diseño",
+        "product": "Logos",
+        "descripcion": "Diseño y creacion de logos.",
+        "precio": 150,
+        "img": "https://picsum.photos/id/180/600",
+        "cantidad": "40"
+    },
+    {
+        "id": "011",
+        "tipo": "instalacion'",
+        "product": "Letrero Luminoso",
+        "descripcion": "Instalacion de Letreros Luminosos.",
+        "precio": 700,
+        "img": "https://picsum.photos/id/1033/600",
+        "cantidad": "20"
+    },
+    {
+        "id": "012",
+        "tipo": "instalacion",
+        "product": "Valla Publicitaria",
+        "descripcion": "Instalacion de Valla Publicitaria.",
+        "precio": 750,
+        "img": "https://picsum.photos/id/451/600",
+        "cantidad": "12"
+    },
+    {
+        "id": "013",
+        "tipo": "instalacion",
+        "product": "Instalación en Vinil",
+        "descripcion": "Intalacion y tralado de vinil para fachada de negocios.",
+        "precio": 400,
+        "img": "https://picsum.photos/id/442/600",
+        "cantidad": "12"
+    },
+    {
+        "id": "014",
+        "tipo": "diseño",
+        "product": "Comunity Manager",
+        "descripcion": "Dedicacion y tiempo para el seguimiento de las paginas.",
+        "precio": 300,
+        "img": "https://picsum.photos/id/445/600",
+        "cantidad": "40"
+    },
+    {
+        "id": "015",
+        "tipo": "impresion",
+        "product": "Papelería Empresarial",
+        "descripcion": "Impresion de material para papeleria empresarial",
+        "precio": 80,
+        "img": "https://picsum.photos/id/163/600",
+        "cantidad": "10"
+    }
+]

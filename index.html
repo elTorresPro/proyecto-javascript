@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Proyecto Coder House</title>
+    <script src="https://kit.fontawesome.com/df59baf6b8.js" crossorigin="anonymous"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="stylesheet" href="./styles/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+</head>
+
+
+
+<body> 
+    
+    <header class="fixed-top">
+        <h1 id="titulo" class="titulo">Proyecto Final Carrito</h1>
+        <button id="boton-carrito"><i class="fas fa-shopping-cart"></i><span id="contadorCarrito">0</span></button>
+
+    </header>
+    <main> 
+    <section id="productosContainer">
+        <!--Codigo inyectado desde JS-->
+    </section>
+
+    <div class="modal-contenedor">
+        <div class="modal-carrito">
+            <h3>Carrito de Compra</h3>
+            <button id="carritoCerrar"><i class="fas fa-times-circle"></i>.</button>
+            <div id="carritoContenedor">
+            </div>
+            <p class="precioProducto">Total de la compra: $<span id="precioTotal">0</span></p>
+            <button id="vaciarCarrito" class="botonVaciarCarrito">Vaciar carrito</button>
+            <button id="confirmarCompra" class="botonVaciarCarrito ">Comprar</button>
+        </div>
+        </div>
+    </div>
+</main>
+<footer>
+        <div id="contSocial">
+            <div id="footContacto">
+                <h3>Contáctanos:</h3>
+                <p>Tél: 901558752</p>
+                <p><a href="#">Mail: migueltorrescerna0@gmail.com</a></p>
+                <p>Dirección: mz n2 lt 30 AA.HH. Lomas de Zapallal-Pte Piedra</p>
+            </div>
+  
+            <div id="footRedes">
+                <h3>Redes sociales</h3>
+                <div id="Container_Redes">
+                    <a href="#"><img src="/img/facebook.png" alt="Logo de facebook" class="logosRedes"></a>
+                    <a href="#"><img src="/img/instagram.png" alt="Logo de instagram" class="logosRedes"></a>
+                    <a href="#"><img src="/img/twitter.png" alt="Logo de twitter" class="logosRedes"></a>
+                </div>
+            </div>
+        </div>
+        <div id="footCopy">
+            <p>PUNCH GRAPHIC - Publicidad & Marketing / © Todos los Derechos Reservados</p>
+        </div>
+</footer>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./javascript/data.js"></script> 
+    <script src="./javascript/carritomodal.js"></script>
+    <script src="./javascript/index.js"></script>
+</body>
+
+</html>
